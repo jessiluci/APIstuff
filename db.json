@@ -4,22 +4,22 @@
       "@context": "https://schema.org",
       "@type": "Cycling",
       "id": "1",
-      "name": "Surly Hardtail ",
-      "description": "Suspension in the back, good for cross-country"
+      "name": "Surly Krampus",
+      "description": "A steel hardtail mountain bike built for big 29+ tires, trail riding, and bikepacking"
     },
     {
       "@context": "https://schema.org",
       "@type": "Cycling",
       "id": "2",
       "name": "Surly Ice Cream Truck Fat Bike",
-      "description": "Best for snowy conditions"
+      "description": "A steel fat bike made for snow, sand, and rough trails, with huge tires and ultra-stable handling"
     },
     {
       "@context": "https://schema.org",
       "@type": "Cycling",
       "id": "3",
       "name": "Specialized Crux",
-      "description": "Altered, excellent for gravel cycling"
+      "description": "Lightweight gravel bike focused on speed, efficiency, and race-ready performance"
     }
   ],
   "users": [
@@ -28,15 +28,15 @@
       "@type": "Person",
       "id": "1",
       "name": "Jess Toth",
-      "description": "Love this ball! It is perfect for juggling.",
+      "description": "Love this bike. My go-to for pretty much all mountain biking.",
       "itemId": "1"
     },
     {
       "@context": "https://schema.org",
       "@type": "Person",
-      "id": "2",
+      "id": "1",
       "name": "Jess Toth",
-      "description": "This laptop is okay. My mac laptop was better.",
+      "description": "Only riding this in the snow and slowly but such a good time!",
       "itemId": "3"
     },
     {
@@ -44,7 +44,7 @@
       "@type": "Person",
       "id": "3",
       "name": "Aaron Kovach",
-      "description": "Love playing tennis with this racket!",
+      "description": "Fun, playful. Excellent gearing.",
       "itemId": "4"
     }
   ],

@@ -42,10 +42,10 @@
     {
       "@context": "https://schema.org",
       "@type": "Person",
-      "id": "3",
+      "id": "2",
       "name": "Aaron Kovach",
       "description": "Fun, playful. Excellent gearing.",
-      "itemId": "4"
+      "itemId": "3"
     }
   ],
   "collection": {

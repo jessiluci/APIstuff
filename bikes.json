@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Cycling",
+      "id": "1",
+      "name": "Surly Hardtail ",
+      "description": "Suspension in the back, good for cross-country"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Cycling",
+      "id": "2",
+      "name": "Surly Ice Cream Truck Fat Bike",
+      "description": "Best for snowy conditions"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Cycling",
+      "id": "3",
+      "name": "Specialized Crux",
+      "description": "Altered, excellent for gravel cycling"
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": "Jess Toth",
+      "description": "Love this ball! It is perfect for juggling.",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": "Jess Toth",
+      "description": "This laptop is okay. My mac laptop was better.",
+      "itemId": "3"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "3",
+      "name": "Aaron Kovach",
+      "description": "Love playing tennis with this racket!",
+      "itemId": "4"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "jessicatoth's API",
+    "creator": "jessicatoth",
+    "about": "A collection of bikes in our garage",
+    "url": "https://www.jessicatoth.info"
+  }
+}
